@@ -1,0 +1,13 @@
+C:\Users\Kerie\source\repos\WorkflowInterfacesExercise\WorkflowInterfacesExercise\bin\Debug\netcoreapp3.1\WorkflowInterfacesExercise.exe
+C:\Users\Kerie\source\repos\WorkflowInterfacesExercise\WorkflowInterfacesExercise\bin\Debug\netcoreapp3.1\WorkflowInterfacesExercise.deps.json
+C:\Users\Kerie\source\repos\WorkflowInterfacesExercise\WorkflowInterfacesExercise\bin\Debug\netcoreapp3.1\WorkflowInterfacesExercise.runtimeconfig.json
+C:\Users\Kerie\source\repos\WorkflowInterfacesExercise\WorkflowInterfacesExercise\bin\Debug\netcoreapp3.1\WorkflowInterfacesExercise.runtimeconfig.dev.json
+C:\Users\Kerie\source\repos\WorkflowInterfacesExercise\WorkflowInterfacesExercise\bin\Debug\netcoreapp3.1\WorkflowInterfacesExercise.dll
+C:\Users\Kerie\source\repos\WorkflowInterfacesExercise\WorkflowInterfacesExercise\bin\Debug\netcoreapp3.1\WorkflowInterfacesExercise.pdb
+C:\Users\Kerie\source\repos\WorkflowInterfacesExercise\WorkflowInterfacesExercise\obj\Debug\netcoreapp3.1\WorkflowInterfacesExercise.csprojAssemblyReference.cache
+C:\Users\Kerie\source\repos\WorkflowInterfacesExercise\WorkflowInterfacesExercise\obj\Debug\netcoreapp3.1\WorkflowInterfacesExercise.AssemblyInfoInputs.cache
+C:\Users\Kerie\source\repos\WorkflowInterfacesExercise\WorkflowInterfacesExercise\obj\Debug\netcoreapp3.1\WorkflowInterfacesExercise.AssemblyInfo.cs
+C:\Users\Kerie\source\repos\WorkflowInterfacesExercise\WorkflowInterfacesExercise\obj\Debug\netcoreapp3.1\WorkflowInterfacesExercise.csproj.CoreCompileInputs.cache
+C:\Users\Kerie\source\repos\WorkflowInterfacesExercise\WorkflowInterfacesExercise\obj\Debug\netcoreapp3.1\WorkflowInterfacesExercise.dll
+C:\Users\Kerie\source\repos\WorkflowInterfacesExercise\WorkflowInterfacesExercise\obj\Debug\netcoreapp3.1\WorkflowInterfacesExercise.pdb
+C:\Users\Kerie\source\repos\WorkflowInterfacesExercise\WorkflowInterfacesExercise\obj\Debug\netcoreapp3.1\WorkflowInterfacesExercise.genruntimeconfig.cache
